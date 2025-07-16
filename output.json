@@ -1,0 +1,129 @@
+[
+  {
+    "name": "Startup Stash",
+    "tagline": "A curated directory of 400 resources & tools for startups",
+    "upvotes": 9319,
+    "comments": 321,
+    "tags": [
+      "Web App",
+      "Tech",
+      "Startup Lessons"
+    ]
+  },
+  {
+    "name": "Wordware",
+    "tagline": "Your tool for building AI agents with natural language",
+    "upvotes": 7840,
+    "comments": 136,
+    "tags": [
+      "Software Engineering",
+      "Developer Tools",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "name": "Slack",
+    "tagline": "Be less busy. Real-time messaging, archiving & search.",
+    "upvotes": 7338,
+    "comments": 300,
+    "tags": [
+      "Android",
+      "iOS",
+      "Mac",
+      "Web App",
+      "Productivity",
+      "Messaging",
+      "API",
+      "Developer Tools",
+      "Tech"
+    ]
+  },
+  {
+    "name": "Startup Pitch Decks",
+    "tagline": "Real decks from real startups that raised over $400M",
+    "upvotes": 5646,
+    "comments": 153,
+    "tags": [
+      "Web App",
+      "Productivity",
+      "Marketing",
+      "Venture Capital",
+      "Tech"
+    ]
+  },
+  {
+    "name": "Pexels 2.0",
+    "tagline": "The best free stock photos in one place",
+    "upvotes": 4669,
+    "comments": 122,
+    "tags": [
+      "Web App",
+      "Design Tools",
+      "Photography",
+      "Tech"
+    ]
+  },
+  {
+    "name": "remove.bg",
+    "tagline": "Remove the background of any image 100% automatically",
+    "upvotes": 4506,
+    "comments": 428,
+    "tags": [
+      "Design Tools",
+      "Productivity",
+      "Photography"
+    ]
+  },
+  {
+    "name": "Notion 2.0",
+    "tagline": "The all-in-one workspace - notes, tasks, wikis, & databases",
+    "upvotes": 4505,
+    "comments": 315,
+    "tags": [
+      "Productivity",
+      "Notes",
+      "Spreadsheets",
+      "Notion"
+    ]
+  },
+  {
+    "name": "Good Email Copy",
+    "tagline": "Email copy from great companies.",
+    "upvotes": 4140,
+    "comments": 114,
+    "tags": [
+      "Web App",
+      "Email",
+      "Writing",
+      "Tech"
+    ]
+  },
+  {
+    "name": "Coolors",
+    "tagline": "Super fast color schemes generator for cool designers",
+    "upvotes": 3947,
+    "comments": 123,
+    "tags": [
+      "iOS",
+      "Web App",
+      "Design Tools",
+      "Tech"
+    ]
+  },
+  {
+    "name": "Hunter",
+    "tagline": "Find all the email addresses related to a domain",
+    "upvotes": 3871,
+    "comments": 183,
+    "tags": [
+      "Web App",
+      "Email",
+      "Hiring",
+      "Sales",
+      "Email Marketing",
+      "Marketing",
+      "Growth Hacking",
+      "Tech"
+    ]
+  }
+]
