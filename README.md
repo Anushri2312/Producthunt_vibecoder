@@ -37,6 +37,8 @@ This dashboard helps you:
 - Insights to help **launch better**
 - Real-world observations from the data
 
+## Live Demo : https://huntvibecoder.streamlit.app/
+
 ## 🧠 How to Run
 
 ```bash
@@ -50,4 +52,4 @@ pip install -r requirements.txt
 # Run the app
 streamlit run app.py
 
-## **Live Demo** : https://huntvibecoder.streamlit.app/
+
