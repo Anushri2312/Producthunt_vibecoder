@@ -1,6 +1,10 @@
 import streamlit as st
-from utils.load_data import load_producthunt_data
-from pages import about, overview, insights, export, tips
+from load_data import load_producthunt_data
+import about
+import overview
+import insights
+import export
+import tips
 
 st.set_page_config(page_title="Product Hunt Dashboard", layout="wide")
 st.sidebar.title("🔍 Navigation")
