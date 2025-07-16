@@ -1,27 +1,53 @@
-**ProductHunt Trendy Dashboard**
+# 🚀 ProductHunt Trendy Dashboard
 
-A visually rich, interactive dashboard that analyzes top trending ProductHunt launches using real-time API data.
-Built with Python, Streamlit, and Plotly — perfect for showcasing data analysis + UI thinking.
+Welcome to the **ProductHunt Trendy Dashboard** — a beautifully designed, data-rich, and interactive web app built using **Streamlit**.
 
-**What It Does**
+This project analyzes trending product launches on [ProductHunt](https://www.producthunt.com/) to uncover what makes a product go viral — using real metrics like upvotes, comments, tags, and categories.
 
-📦 Fetches live product data from ProductHunt GraphQL API
-📊 Displays product trends: upvotes, comments, tags, categories
-🧠 Extracts insights using charts, word clouds, flow diagrams
-📂 Exports reports to CSV
-🖥️ Built with a responsive web UI using Streamlit’s multipage layout
-Features
+## 🔍 Why This Dashboard?
 
-**Feature	Description**
+ProductHunt is a launchpad for tech products. But what makes a product **"trendy"** or **"viral"**?
 
-🔥 Trending Products	Top launches sorted by upvotes from ProductHunt
-🧠 Insights Page	WordCloud, category-tag flowchart, engagement metrics
-🛠️ Tools Used	Python, Streamlit, Plotly, WordCloud, requests
-📁 Pages Structured	Overview, Tips, Insights, Export pages via sidebar
+This dashboard helps you:
+- 📈 Analyze product trends and engagement
+- 💡 Discover what works in product launches
+- 🎯 Make data-driven launch decisions
 
-**Run It Locally**
+## 📊 Features
 
+### ✅ Overview
+- Filter & sort top 10 trending products by:
+  - 🔼 Upvotes
+  - 💬 Comments
+  - 🔤 A–Z
+- View product descriptions, tags, and categories
+- Instant score calculation: `Score = Upvotes + Comments`
+
+### 🧠 Insights
+- 📊 WordCloud of most used tags
+- 📈 Category vs Tags usage flowchart
+- 🧮 Engagement metrics visualized
+- 🧾 Descriptive insights on emoji legends and scoring
+
+### 💾 Export
+- Download raw data in `.csv` format
+- Snapshot-ready for analysis or portfolio projects
+
+### 💡 Tips & Tricks
+- Insights to help **launch better**
+- Real-world observations from the data
+
+## 🧠 How to Run
+
+```bash
+# Clone the repo
 git clone https://github.com/Anushri2312/producthunt-trendy-dashboard.git
 cd producthunt-trendy-dashboard
+
+# Install dependencies
 pip install -r requirements.txt
+
+# Run the app
 streamlit run app.py
+
+**Live Demo** : https://huntvibecoder.streamlit.app/
